@@ -1,5 +1,7 @@
 # Boston University GIT
 
+adding a line here
+
 #computational-project-cookie-cutter
 A cookie cutter (aka project template) to set up a folder structure for a computational project.
 This is a quick way to setup a folder structure that follows one standard to organize a project.
